@@ -10,7 +10,6 @@ Japan journal of Research <research.jp@scienceexcel.org>
 Peer Reviewed Journal of Forensic Genetic Sciences <forensic@lupinepublisher.com>
 Journal of Clinical and Medical Images <submission@jcmimagess.com>
 Nanotechnology and Nanoscience <nanoscience@sunkristopenaccess.com>
-Technium Science <office@techniumscience.com>
 Special Issue Bacteriology <jessicakraker@austinpublishinggroups.org>;<bacteriology@austinpublishinggroup.com>
 Journal of Addiction and Medicine <journals.medcarescience@gmail.com>
 Insights in Biomedicine <biomedicine@imedpub.org>
@@ -42,6 +41,8 @@ Journal of Marine Science Research and Oceanography <george@e-openaccess.com>
 Toxicology and Applied Pharmacology Insights    <joyce@e-openaccess.com>
 Medical Case Reports and Reviews    <KerinAlice@oatjournals.com>
 Biology, Engineering and Medicine (ISSN: 2399-9632) (Kelsey Hayes)  <info@mdabs.maildirect.co.in>;<info@oatext-news.org>
+Scientific Bulletin of Naval Academy (ISSN 2392-8956, false indexing claim) <editura@anmb.ro>
+ANALELE UNIVERSITĂŢII MARITME DIN CONSTANŢA (ISSN 1582-3601, false indexing claim) https://cmu-edu.eu/annals/
 Steel Structures Construction   <steelstructures@emedscholar.com>
 Clinical Pharmacology and Toxicology Research   <pharmatoxicol@eclinicalsci.com>
 World Journal of Nutrition and Food Science <sender@medtextonlinepubj.info>
