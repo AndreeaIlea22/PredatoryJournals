@@ -73,4 +73,7 @@ Traditional Medicine and Clinical Naturopathy   <tradmed@omicsonline.org>
 Journal of Physics: Conference Series (JPCS)    <pmms2020@migcca.com>;<joy@info.migcca.com>
 Annals of Pharmacology and Clinical Toxicology  <pharmacology@inquestpublications.com>
 Advances in Hematology and Oncology Research (ISSN: 2692-5516)  <joel@e-openaccess.info>
+Revista de Chimie (ISSN: 2668-8212)  - asking fees for rapid publication without peer review. office@revistadechimie.ro 
+IOP Conference Series: Materials Science and Engineering ISSN: 1757-899X discontinued from Scopus for low quality scientific content
+International Journal of Modern Manufacturing Technologies (IJMMT), ISSN 2067-3604   <simona0nikoleta@yahoo.com>
 
